@@ -15,7 +15,7 @@ Bienvenidos al curso de extención del Laboratorio de Electrotecnia de la Pontif
     - [Extencion](#opcional)
 - [Mapa](#mapa)
      - [Guia](#guía-de-ejercicios)
-     - [Libreria](#libreria)
+     - [Modelos Spice](#modelos-spice)
      - [Normas](#normas)
 - [License](#license)
 - [Links](#links)
@@ -64,8 +64,8 @@ https://github.com/pointhi/kicad-color-schemes/blob/master/eagle-dark/com.github
 ## Mapa
 ### Guía de Ejercicios
 El archivo con el mismo nombre es la guia que deberán utilizar para practicar simular y diseñar el PCB.
-### Libreria
-En la carpeta librerias encontraran los modelos spice de algunos componentes que utilizarán para la guia de ejercicios que no vienen integrados en KiCAD
+### Modelos Spice
+En la carpeta "Modelos Spice" encontraran los modelos spice de algunos componentes que utilizarán para la guia de ejercicios que no vienen integrados en KiCAD
 ### Normas
 El archivo "IPC-2221A eng_text.pdf" es la norma que estandariza la fabricación de PCBs.
 ## Documentación
