@@ -68,8 +68,15 @@ El archivo con el mismo nombre es la guia que deberán utilizar para practicar s
 En la carpeta "Modelos Spice" encontraran los modelos spice de algunos componentes que utilizarán para la guia de ejercicios que no vienen integrados en KiCAD
 ### Normas
 El archivo "IPC-2221A eng_text.pdf" es la norma que estandariza la fabricación de PCBs.
+### Utilidades
+En esa carpeta encontrán las siguientes cosas de utilidad:
++ Una guía para creacion de simbolos y huellas a modo de resumen (© IDAC FIUBA).
++ El resumen de KiCAD de la materia HIAE (© Ing. Raúl Felix Florentín).
 ## Documentación
 En el siguiente link podrán encontrar la documentación de KiCAD
+
+
+
 ```bash
 https://docs.kicad.org/
 ```
