@@ -1227,7 +1227,7 @@
 			(uuid "34a1f32b-7c1e-4b25-b0d5-24a5af0c845c")
 		)
 		(instances
-			(project ""
+			(project "Amplificador de Audio"
 				(path "/b8d0d51e-a4b5-41db-bca1-70d5e047cb87"
 					(reference "#PWR01")
 					(unit 1)
@@ -1395,7 +1395,7 @@
 			(uuid "bfdaaafc-4f96-4a4e-b2e2-18270aad125d")
 		)
 		(instances
-			(project ""
+			(project "Amplificador de Audio"
 				(path "/b8d0d51e-a4b5-41db-bca1-70d5e047cb87"
 					(reference "V1")
 					(unit 1)
@@ -1492,7 +1492,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1"
+		(property "Value" "10m"
 			(at 69.85 125.6001 0)
 			(effects
 				(font
@@ -1537,7 +1537,7 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Params" "dc=0 ampl=1 f=50 td=0 theta=0 phase=0 ac=1"
+		(property "Sim.Params" "dc=0 ampl=0.1 f=1k td=0 theta=0 phase=0 ac=1"
 			(at 69.85 128.1401 0)
 			(effects
 				(font
@@ -1572,7 +1572,7 @@
 			(uuid "8b92f788-f6c7-48ad-b94f-5ae481d36d71")
 		)
 		(instances
-			(project ""
+			(project "Amplificador de Audio"
 				(path "/b8d0d51e-a4b5-41db-bca1-70d5e047cb87"
 					(reference "V2")
 					(unit 1)
@@ -1642,7 +1642,7 @@
 			(uuid "7044bce6-bc1e-49b1-b4f2-53a68580fc3c")
 		)
 		(instances
-			(project ""
+			(project "Amplificador de Audio"
 				(path "/b8d0d51e-a4b5-41db-bca1-70d5e047cb87"
 					(reference "R1")
 					(unit 1)
@@ -1764,7 +1764,7 @@
 			(uuid "c0ab5b12-09c5-4f7d-be38-8c86ef12e813")
 		)
 		(instances
-			(project ""
+			(project "Amplificador de Audio"
 				(path "/b8d0d51e-a4b5-41db-bca1-70d5e047cb87"
 					(reference "U1")
 					(unit 1)
@@ -2233,7 +2233,7 @@
 			(uuid "19f5a14b-ec6a-4652-9432-65119496d030")
 		)
 		(instances
-			(project ""
+			(project "Amplificador de Audio"
 				(path "/b8d0d51e-a4b5-41db-bca1-70d5e047cb87"
 					(reference "C1")
 					(unit 1)
